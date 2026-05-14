@@ -82,10 +82,10 @@ s.send("acknowledgement recived from the server".encode())
 
 ## Output:
 
-client.py output:
+## client.py output:
 <img width="707" height="558" alt="Screenshot 2026-05-14 212604" src="https://github.com/user-attachments/assets/805d7130-7b8b-4d5f-99b0-12ad917187a7" />
 
-server.py:
+## server.py:
 <img width="870" height="602" alt="Screenshot 2026-05-14 212632" src="https://github.com/user-attachments/assets/b9f20c59-4bcc-481b-8d86-bfa28f31bf64" />
 
 ## Developed By: BUSHRA FATHIMA I
